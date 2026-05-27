@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyvender",
+        "uuid": 6888240,
+        "checksum": "7uycv"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
